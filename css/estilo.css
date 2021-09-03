@@ -1,0 +1,88 @@
+ .color2 {
+ 	color: #e84068;
+ }
+
+ h2{
+ 	color: #2fcba8;
+ 	text-decoration: underline;
+ }
+ .cuadro{
+    background-color: #2fcba8;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:    "fuente1";
+    border-radius: 15px;
+}
+.centrado{
+        margin-left:  auto;
+        margin-right: auto;
+}
+.fondofila{
+        background-color:  #6b635b ;
+}
+@font-face{
+        font-family: "fuente1";
+        src: url("../fonts/Shine Personal Use.ttf");
+}
+.titulo{
+        font-size: 80px;
+        color: #ffffff;
+}
+.letra{
+        font-size: 20px;
+        color: #000000;
+}
+.letra2{
+        font-size: 25px;
+        color: #2fcba8;
+        padding-top: 10px;
+        font-family:    "fuente1";
+}
+.letra3{
+        font-size: 14px;
+        color: #000000;
+}
+.image{
+        border: solid 2px #000;
+}
+.carru{
+        background-color: #ffffff;
+}
+@font-face{
+        font-family: "fuente2";
+        src: url("../fonts/Matterson.ttf");
+}
+.letra4{
+        font-size: 30px;
+        color: #2fcba8;
+        padding-top: 10px;
+        font-family:    "fuente2";
+}
+.letra5{
+        color: #2fcba8;
+        padding-right: 5px;
+}
+.letra6{
+        font-size: 20px;
+        color: #000000;
+
+}
+.espacio{
+        padding-top: 13px;
+        color: #000000;
+
+}
+.colorletra{
+        color: #ffffff;
+
+}
+.imagen{
+        padding-top: 27px;
+        padding-bottom: 8px;
+}
+.letra7{
+        padding-top: 20px;
+        padding-bottom: 8px;
+
+}
